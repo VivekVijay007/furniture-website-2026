@@ -229,15 +229,18 @@ body {
     background-color: #b8c9c5;
 
 }
-.footer{
+
+.footer {
     padding: 10px;
     background-color: #b8c9c5;
     color: white;
     text-align: center;
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
+
 /* animation */
 @keyframes FadeIn {
     0% {
